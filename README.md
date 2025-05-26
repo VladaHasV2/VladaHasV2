@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<!-- Profile Views Counter with cat icon -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VladaHas&style=flat-square&color=7B68EE&label=🐱+Просмотры+профиля" alt="Profile Views"/>
-</p>
-
 ---
 
 <!-- About Me Section with purple card -->
@@ -71,8 +66,8 @@
 
 <!-- GitHub Stats Section with purple theme -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=VladaHas&show_icons=true&theme=radical&bg_color=30,7B68EE,9370DB&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladaHas&theme=radical&background=30,7B68EE,9370DB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladaHasV2&show_icons=true&theme=radical&bg_color=30,7B68EE,9370DB&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladaHasV2&theme=radical&background=30,7B68EE,9370DB&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%">
 </div>
 
 <!-- Cat ASCII Art -->
