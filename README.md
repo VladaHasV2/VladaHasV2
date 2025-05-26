@@ -1,6 +1,6 @@
-<!-- Rainbow Wave Header with animated gradient -->
-<div align="center" style="background: linear-gradient(135deg, #7B68EE, #9370DB, #8A2BE2, #9932CC); padding: 20px; border-radius: 15px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Приветствую+в+моём+пространстве!👋;Влада+Хасанова+—+Студент+и+Творческая+личность+😺" alt="Анимированный заголовок">
+<!-- Rainbow Wave Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=7B68EE&center=true&vCenter=true&width=800&height=80&lines=Приветствую+в+моём+пространстве!👋;Влада+Хасанова+—+Студент+😺" alt="Анимированный заголовок">
 </div>
 
 <!-- Social Media Badges with hover effects -->
