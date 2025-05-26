@@ -3,45 +3,71 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=7B68EE&center=true&vCenter=true&width=800&height=80&lines=Приветствую+в+моём+пространстве!👋;Ильнур+Ахметов+—+Fullstack+разработчик🚀" alt="Анимированный заголовок">
 </div>
 
-<!-- Social Butterfly -->
+<!-- Typing SVG -->
 <p align="center">
-  <a href="https://t.me/yourprofile">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=7B68EE" alt="Telegram">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Vasudev+Jaiswal's+Github+Profile.." alt="Typing SVG"/>
+</p>
+
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://twitter.com/VasudevJaiswal_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7B68EE" alt="LinkedIn">
+  <a href="https://in.linkedin.com/in/VasudevJaiswal">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://leetcode.com/yourprofile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=7B68EE" alt="LeetCode">
+  <a href="https://www.instagram.com/VasudevJaiswal">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7B68EE" alt="Email">
+  <a href="mailto:vasujaiswal00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<!-- 3D Profile Views -->
+<!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=7B68EE&label=PROFILE+VIEWS" alt="Просмотры профиля">
+  <img src="https://komarev.com/ghpvc/?username=VasudevJaiswal&style=flat-square" alt="Profile Views"/>
 </p>
 
-<!-- Floating Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
-<!-- About Me Card -->
-<details align="center">
-  <summary><b>🌟 ОБО МНЕ</b></summary>
-  <br>
-  <div align="left">
-  
-  ```javascript
-  const ilnur = {
-    pronouns: "Он/Его",
-    education: "Магистр компьютерных наук",
-    university: "КФУ, Казань",
-    currentFocus: "Fullstack разработка (MERN)",
-    hobbies: ["Гитарные джемы", "Фотография природы", "AI эксперименты"],
-    funFact: "Могу решать кубик Рубика за 2 минуты!"
-  };
-</div> </details><!-- Tech Galaxy --><div align="center"> <h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> МОЙ ТЕХНОЛОГИЧЕСКИЙ СТЕК </h2> </div><p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,py,django,aws,docker,git,figma&theme=light&perline=7" alt="Технологии"> </p><!-- Project Showcase --><div align="center"> <h2> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> ИЗБРАННЫЕ ПРОЕКТЫ </h2> </div><table align="center"> <tr> <td width="50%"> <h3 align="center">ChatFlow</h3> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ4b2J0c3BqZ2h6eXh1a2R6Y2V5Z2R4Z2Z5bXlqZzV4eGZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"> </div> <p align="center">Реал-тайм чат на MERN стеке с WebSockets</p> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/Код-7B68EE?style=for-the-badge" alt="Код"> </a> <a href="#"> <img src="https://img.shields.io/badge/Демо-7B68EE?style=for-the-badge" alt="Демо"> </a> </div> </td> <td width="50%"> <h3 align="center">AI Marketplace</h3> <div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlzY2JqZ2F3eWk1dWk0dG5mZ2N5eW5qY2VqZzV4eGZ6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7hy9ktXNDP2/giphy.gif" width="300"> </div> <p align="center">Платформа AI-решений с интеграцией API</p> <div align="center"> <a href="#"> <img src="https://img.shields.io/badge/Код-7B68EE?style=for-the-badge" alt="Код"> </a> <a href="#"> <img src="https://img.shields.io/badge/Демо-7B68EE?style=for-the-badge" alt="Демо"> </a> </div> </td> </tr> </table><!-- GitHub Stats Rainbow --><div align="center"> <h2> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"> МОЯ ГИТХАБ СТАТИСТИКА </h2> </div><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&border_color=7B68EE" width="45%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=7B68EE" width="45%"> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_color=7B68EE" width="45%"> </p><!-- Daily Coding Habit --><div align="center"> <h2> <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> МОИ ПРИВЫЧКИ КОДИНГА </h2> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&area_color=7B68EE" width="90%"> </div><!-- Fun Snake Animation --><div align="center"> <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation"> </div>
+<!-- About Me Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/About%20Me-%23f97316?style=for-the-badge&logo=readme&logoColor=white" alt="About Me">
+</p>
+
+## 🙋‍♂️ About Me
+
+- 🚀 **Education:** B.Tech in Computer Science and Engineering (Data Science)  
+  *JSS Academy of Technical Education - Noida*
+
+---
+
+<!-- Projects Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-Projects-orange?style=for-the-badge" alt="Projects">
+</p>
+
+### 💡 **Projects:**
+1. **DevVani ChatApp:** Experience real-time communication with our MERN-based Chat Application.
+2. **Sarvam AI:** Discover AI excellence with 100+ platforms, offers, and solutions in one seamless React web app!
+3. **News App:** Developed a sophisticated application integrating real-time updates and user-friendly interfaces.
+4. **Weather Forecasting Web App:** Utilizing HTML, CSS, and JavaScript for accurate weather predictions.
+5. **Manasvita Mental Health Assessment Web Application:** [Check it out](https://github.com/VasudevJaiswal/Manasvita_Mental_Health_Assessment_Web_Application) – A web application designed to assess mental health and provide insights.
+
+---
+
+<!-- Skills Header -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️-Skills-blue?style=for-the-badge" alt="Skills">
+</p>
+
+### 🛠️ **Skills**
+- **Languages:** ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- **Tools & Platforms:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Cloud & Deployment:** ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+---
+
+### 📊 **GitHub Stats**
